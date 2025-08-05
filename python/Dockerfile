@@ -2,6 +2,6 @@ FROM python
 
 WORKDIR /python
 
-COPY ./add.py .
+COPY ./bank-account.py .
 
-CMD [ "python3", "add.py" ]
+CMD [ "python3", "bank-account.py" ]
