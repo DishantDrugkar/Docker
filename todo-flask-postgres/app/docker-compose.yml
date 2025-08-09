@@ -1,0 +1,32 @@
+version: "3.8"
+services:
+  app:
+    build: ./app
+    ports:
+      - "5001:5000"
+    environment:
+      DB_HOST: db
+      DB_NAME: devops_db
+      DB_USER: postgres
+      DB_PASSWORD: root5113
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root5113
+      POSTGRES_DB: devops_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d devops_db"]
+      interval: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
