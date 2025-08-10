@@ -22,6 +22,6 @@ docker-compose up --build
 - `db/init.sql` — PostgreSQL DB initialization script  
 - `docker-compose.yml` — Docker compose config for all services
 
----
+--------------------------  ***  ------------------------------
 
 Enjoy your Weather App!
