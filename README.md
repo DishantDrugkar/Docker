@@ -22,19 +22,19 @@ Currently exploring **Networking, CI/CD pipelines, Kubernetes, Terraform, and AW
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantDrugkar&theme=radical" height="200"/>
+      <td align="center" width="400">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantDrugkar&theme=radical" height="220"/>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DishantDrugkar&theme=radical" height="200"/>
+      <td align="center" width="400">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DishantDrugkar&theme=radical" height="220"/>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DishantDrugkar&theme=radical" height="200"/>
+      <td align="center" width="400">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DishantDrugkar&theme=radical" height="220"/>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DishantDrugkar&theme=radical&utcOffset=5.5" height="200"/>
+      <td align="center" width="400">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DishantDrugkar&theme=radical&utcOffset=5.5" height="220"/>
       </td>
     </tr>
   </table>
