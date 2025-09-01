@@ -6,14 +6,7 @@
 
 ---
 
-## 📈 Contribution Overview  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantDrugkar&theme=radical" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DishantDrugkar&theme=radical&utcOffset=5.5" height="180" />
-</p>
-
----
 
 ## 🌟 Profile Highlights  
 
