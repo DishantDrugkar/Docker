@@ -2,22 +2,6 @@
 
 # 👋 Hi, I'm Dishant Drugkar  
 
-🚀 **DevOps Enthusiast | Cloud-Native Learner | Automation Explorer**  
-
-I’m passionate about **automating, deploying, and scaling applications** with modern DevOps practices.  
-Currently exploring **Networking, CI/CD pipelines, Kubernetes, Terraform, and AWS** to sharpen my skills and contribute to impactful projects.  
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,docker,kubernetes,aws,terraform,jenkins,linux,prometheus,grafana" />
-</p>  
-
----
-
-## 📊 GitHub Stats & Activity  
 
 <p align="center">
   <table>
