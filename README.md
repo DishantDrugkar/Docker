@@ -4,19 +4,6 @@
 
 
 
----
 
 
 
-
----
-
- 
-
----
-
-
-
----
-
-✨ *Always learning. Always building.*  
