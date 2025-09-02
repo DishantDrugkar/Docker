@@ -11,13 +11,7 @@
 
 ---
 
-## 📖 Currently Learning  
-
-- 📌 Networking Fundamentals  
-- 📌 CI/CD Automation  
-- 📌 Kubernetes & Cloud Orchestration  
-- 📌 Terraform for Infrastructure as Code  
-- 📌 AWS (EKS, Lambda, Advanced Services)  
+ 
 
 ---
 
