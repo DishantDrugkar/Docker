@@ -8,13 +8,6 @@
 
 
 
-## 🌟 Profile Highlights  
-
-- 🔹 **Repositories:** ![Repos](https://badgen.net/github/repos/DishantDrugkar)  
-- 🔹 **Commits (This Year):** ![Commits](https://badgen.net/github/commits/year/DishantDrugkar)  
-- 🔹 **Pull Requests:** ![PRs](https://badgen.net/github/prs/DishantDrugkar)  
-- 🔹 **Stars:** ![Stars](https://badgen.net/github/stars/DishantDrugkar)  
-- 🔹 **Followers:** ![Followers](https://badgen.net/github/followers/DishantDrugkar)  
 
 ---
 
